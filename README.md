@@ -1,6 +1,6 @@
 # Nombre del Proyecto
 
-API de Practica Git Flow
+API de Practica Git-Flow
 
 ## Descripción
 
@@ -55,7 +55,7 @@ http://localhost:3000/api/estado
 
 ## Autores
 
-- [Ana Sofia Vergara Triana] - [Developer]
+- [Ana Sofía Vergara Triana] - [Developer]
 
 ## Flujo de trabajo Git
 
