@@ -26,7 +26,6 @@ npm install
 ## Uso
 
 Levantar el servidor local:
-NotaL Temporal para stash
 
 ~~~bash
 npm start
